@@ -1,0 +1,21 @@
+/* WeatherApp.css */
+.weather-app {
+      height: 620px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(to right, #83a4d4, #b6fbff);
+      padding: 20px;
+      text-align: center;
+    }
+    
+    .weather-app h2 {
+      font-size: 2rem;
+      font-weight: bold;
+      background: linear-gradient(to right, #333399, #ff00cc);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 20px;
+    }
+    
